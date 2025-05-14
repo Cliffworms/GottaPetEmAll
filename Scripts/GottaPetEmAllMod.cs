@@ -86,151 +86,151 @@ namespace GottaPetEmAll
 			// Vanilla Animals
 
 			// DET Animals
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 0, GriffinActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 0, GriffinActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 1, FrostEagleActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 2, FrostEagleActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 1, FrostEagleActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 2, FrostEagleActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 3, VultureActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 3, VultureActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 4, DaggerbackActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 4, DaggerbackActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 5, SepAdderActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 6, SepAdderActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 5, SepAdderActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 6, SepAdderActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 7, StagActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 23, StagActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 7, StagActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 23, StagActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 8, DoeActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 19, DoeActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 20, DoeActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 21, DoeActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 8, DoeActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 19, DoeActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 20, DoeActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 21, DoeActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 22, FawnActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 22, FawnActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 11, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 12, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 13, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 14, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 15, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 16, MonkeyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 17, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 11, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 12, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 13, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 14, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 15, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 16, MonkeyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 17, MonkeyActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 24, DuneRipperActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 25, DuneRipperActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 24, DuneRipperActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 25, DuneRipperActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 26, CoyoteActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 27, CoyoteActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 28, CoyoteActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 26, CoyoteActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 27, CoyoteActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 28, CoyoteActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 0, PonyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 0, PonyActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 1, BasiliskActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 1, BasiliskActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 2, AlcaireCartHorseActivation);
-            PlayerActivate.RegisterCustomActivation(mod, 1010, 32, AlcaireCartHorseActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 2, AlcaireCartHorseActivation);
+            PlayerActivate.RegisterCustomActivation(mod, 10010, 32, AlcaireCartHorseActivation);
 
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 3, RoosterActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 8, RoosterActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 9, RoosterActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 3, RoosterActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 8, RoosterActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 9, RoosterActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 11, RoosterActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 25, RoosterActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 11, RoosterActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 25, RoosterActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 4, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 5, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 6, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 9, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 10, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 12, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 22, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 23, ChickenActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 24, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 4, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 5, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 6, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 9, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 10, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 12, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 22, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 23, ChickenActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 24, ChickenActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 7, PulletActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 13, PulletActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 14, PulletActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 21, PulletActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 7, PulletActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 13, PulletActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 14, PulletActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 21, PulletActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 15, SheepActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 16, SheepActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 17, SheepActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 15, SheepActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 16, SheepActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 17, SheepActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 18, CowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 61, CowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 18, CowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 61, CowActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 19, CalfActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 19, CalfActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 20, BullActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 20, BullActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 26, WayrestChargerActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 27, WayrestChargerActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 28, WayrestChargerActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 29, WayrestChargerActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 30, WayrestChargerActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 31, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 26, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 27, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 28, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 29, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 30, WayrestChargerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 31, WayrestChargerActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 33, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 36, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 37, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 38, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 39, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 40, RatActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 41, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 33, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 36, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 37, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 38, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 39, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 40, RatActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 41, RatActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 34, TameBoarActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 35, TameBoarActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 34, TameBoarActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 35, TameBoarActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 42, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 43, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 44, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 45, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 46, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 47, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 48, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 49, DoveActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 50, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 42, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 43, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 44, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 45, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 46, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 47, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 48, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 49, DoveActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 50, DoveActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 51, HorseActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 52, HorseActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 51, HorseActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 52, HorseActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 53, CamelActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 54, CamelActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 55, CamelActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 56, CamelActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 58, CamelActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 59, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 53, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 54, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 55, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 56, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 58, CamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 59, CamelActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 57, AbibonGoraWarCamelActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 57, AbibonGoraWarCamelActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 60, AlcaireBeltedBullActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 60, AlcaireBeltedBullActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 62, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 63, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 64, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 65, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 67, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 68, AlcaireBeltedCowActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 69, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 62, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 63, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 64, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 65, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 67, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 68, AlcaireBeltedCowActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 69, AlcaireBeltedCowActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 66, AlcaireBeltedCalfActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 70, AlcaireBeltedCalfActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 71, AlcaireBeltedCalfActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 66, AlcaireBeltedCalfActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 70, AlcaireBeltedCalfActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 71, AlcaireBeltedCalfActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 73, GreatDaenianDogActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 75, GreatDaenianDogActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 76, GreatDaenianDogActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 77, GreatDaenianDogActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 78, GreatDaenianDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 73, GreatDaenianDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 75, GreatDaenianDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 76, GreatDaenianDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 77, GreatDaenianDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 78, GreatDaenianDogActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 79, ChainedTigerActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 79, ChainedTigerActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 9, ButterflyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 10, ButterflyActivation);
-			PlayerActivate.RegisterCustomActivation(mod, 1009, 18, ButterflyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 9, ButterflyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 10, ButterflyActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10009, 18, ButterflyActivation);
 
-			PlayerActivate.RegisterCustomActivation(mod, 1010, 74, AngryDogActivation);
+			PlayerActivate.RegisterCustomActivation(mod, 10010, 74, AngryDogActivation);
 
 
 			// DET Animals
